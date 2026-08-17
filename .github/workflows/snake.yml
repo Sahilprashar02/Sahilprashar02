@@ -26,7 +26,7 @@ jobs:
           github_user_name: Sahilprashar02
           outputs: |
             dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2300F5D4&color_dots=%23121620,%23162030,%2300F5D4,%23A855F7,%23F472B6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Publish generated snake

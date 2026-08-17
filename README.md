@@ -58,12 +58,13 @@
   <img src="./assets/engineering-loop.gif" width="100%" alt="Divider Wave Line">
 </p>
 
-## 📊 GitHub Stats & Commit Streaks
+## 📊 GitHub Stats & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175" alt="Sahil Prashar's GitHub statistics">
-  <img src="https://streak-stats.demolab.com/?user=Sahilprashar02&theme=tokyonight&hide_border=true" height="175" alt="Sahil Prashar's GitHub streak">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Most used languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahilprashar02&theme=tokyonight" width="100%" alt="Sahil Prashar's Profile Details">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahilprashar02&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sahil Prashar's Activity Graph">
 </p>
 
 <p align="center">
