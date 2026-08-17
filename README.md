@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/contribution-graph.gif" width="100%" alt="Sahil Prashar's Animated Contribution Activity Trend">
+  <img src="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/activity-graph.svg" width="100%" alt="Sahil Prashar's Auto-Updated Contribution Activity Line Graph">
 </p>
 
 ### 🔤 Most Used Languages
