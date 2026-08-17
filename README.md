@@ -71,6 +71,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilprashar02&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sahil Prashar's Contribution Activity Line Graph">
 </p>
 
+### 🔤 Most Used Languages
+
+<div align="center">
+
+| Language | Usage Share | Core Focus Area |
+| :-- | :-- | :-- |
+| 🟨 **JavaScript** | `████████████████████` **48%** | WebRTC · Node.js · Real-Time Platform Architecture |
+| 🔷 **TypeScript** | `██████████████` **32%** | Next.js · React · Enterprise Full-Stack Applications |
+| 🎨 **CSS3 & UI** | `████████` **12%** | GitSkins Dark Themes · Design Systems & Animations |
+| 🐍 **Python** | `████` **8%** | GIS Automation · PostGIS · ML & RAG / LLM Pipelines |
+
+</div>
+
 <p align="center">
   <img src="./assets/engineering-loop.gif" width="100%" alt="Twinkling Stars & Snake Wave Line">
 </p>
