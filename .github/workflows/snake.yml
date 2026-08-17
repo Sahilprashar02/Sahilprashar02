@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Regenerate daily at midnight UTC.
   workflow_dispatch:
   push:
     branches:
@@ -13,21 +13,23 @@ permissions:
 
 jobs:
   generate:
+    name: Build contribution snake
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    concurrency:
+      group: contribution-snake
+      cancel-in-progress: false
     steps:
-      - name: Generate snake
+      - name: Generate snake from GitHub contributions
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Sahilprashar02
           outputs: |
-            dist/github-snake.svg
+            dist/github-snake.svg?palette=github-light
             dist/github-snake-dark.svg?palette=github-dark
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Publish snake
+      - name: Publish generated snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
