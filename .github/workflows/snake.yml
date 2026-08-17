@@ -1,4 +1,4 @@
-name: Generate Contribution Snake & Activity Graph
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -13,11 +13,11 @@ permissions:
 
 jobs:
   generate:
-    name: Build contribution snake & activity graph
+    name: Build contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
     concurrency:
-      group: contribution-assets
+      group: contribution-snake
       cancel-in-progress: false
     steps:
       - name: Generate snake from GitHub contributions
@@ -30,16 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate contribution activity graph
-        uses: ashutosh00710/github-readme-activity-graph@v1.2.3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/activity-graph.svg
-          theme: tokyonight
-          area: true
-          hide_border: true
-
-      - name: Publish generated assets
+      - name: Publish generated snake
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
