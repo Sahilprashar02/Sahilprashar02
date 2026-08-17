@@ -71,18 +71,9 @@
   <img src="./assets/contribution-graph.gif" width="100%" alt="Sahil Prashar's Animated Contribution Activity Trend">
 </p>
 
-### 🔤 Most Used Languages
-
-<div align="center">
-
-| Language | Usage Share | Core Focus Area |
-| :-- | :-- | :-- |
-| 🟨 **JavaScript** | `████████████████████` **48%** | WebRTC · Node.js · Real-Time Platform Architecture |
-| 🔷 **TypeScript** | `██████████████` **32%** | Next.js · React · Enterprise Full-Stack Applications |
-| 🎨 **CSS3 & UI** | `████████` **12%** | GitSkins Dark Themes · Design Systems & Animations |
-| 🐍 **Python** | `████` **8%** | GIS Automation · PostGIS · ML & RAG / LLM Pipelines |
-
-</div>
+<p align="center">
+  <img src="./assets/top-languages.gif" alt="Most Used Languages & Stack Share" width="100%">
+</p>
 
 <p align="center">
   <img src="./assets/engineering-loop.gif" width="100%" alt="Twinkling Stars & Snake Wave Line">
