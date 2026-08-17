@@ -61,9 +61,9 @@
 ## 📊 GitHub Stats & Commit Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&bg_color=121620&title_color=00F5D4&text_color=94A3B8&icon_color=A855F7&rank_icon=github" height="175" alt="Sahil Prashar's GitHub statistics">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilprashar02&theme=dark&background=121620&border=121620&stroke=00F5D4&sideglow=A855F7&currStreakNum=00F5D4&sideNums=94A3B8&dates=94A3B8" height="175" alt="Sahil Prashar's GitHub streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&bg_color=121620&title_color=00F5D4&text_color=94A3B8" height="175" alt="Most used languages">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175" alt="Sahil Prashar's GitHub statistics">
+  <img src="https://streak-stats.demolab.com/?user=Sahilprashar02&theme=tokyonight&hide_border=true" height="175" alt="Sahil Prashar's GitHub streak">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Most used languages">
 </p>
 
 <p align="center">
@@ -89,6 +89,11 @@
   <a href="https://github.com/Sahilprashar02"><img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
   <br><br>
+
+  <h3>🤝 Let's Build Something Meaningful</h3>
+  <p><i>Open to meaningful collaborations, useful products, and ambitious ideas.</i></p>
+
+  <br>
 
   <i>Build with intent. Learn in public. Ship what matters.</i>
 
