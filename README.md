@@ -57,9 +57,19 @@ Domain          → Geospatial / GIS / enterprise applications
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-snake/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./github-snake/github-snake.svg">
-    <img src="./github-snake/github-snake.svg" alt="GitHub contribution snake" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
   </picture>
 </p>
 
