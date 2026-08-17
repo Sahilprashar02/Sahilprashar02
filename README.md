@@ -58,14 +58,14 @@
   <img src="./assets/engineering-loop.gif" width="100%" alt="Divider Wave Line">
 </p>
 
-## 📊 GitHub Stats & Language Distribution
+## 📊 GitHub Stats & Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahilprashar02&theme=tokyonight" width="100%" alt="Sahil Prashar's Profile Details">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilprashar02&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sahil Prashar's Contribution Activity Line Graph">
 </p>
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahilprashar02&theme=tokyonight" width="49%" alt="GitHub Overall Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahilprashar02&theme=tokyonight" width="49%" alt="Repositories per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sahilprashar02&theme=tokyonight" width="49%" alt="Most Commit Language">
 </p>
 
 <p align="center">
