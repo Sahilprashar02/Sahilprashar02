@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilprashar02&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sahil Prashar's Contribution Activity Line Graph">
+  <img src="./assets/contribution-graph.gif" width="100%" alt="Sahil Prashar's Animated Contribution Activity Trend">
 </p>
 
 ### 🔤 Most Used Languages
