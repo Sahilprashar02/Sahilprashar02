@@ -1,42 +1,40 @@
-<img src="./assets/hero.gif" alt="Sahil Prashar — Full Stack Engineer" width="100%">
+<img src="./assets/hero.gif" alt="Sahil Prashar — Full-Stack Engineer" width="100%">
 
 <div align="center">
 
-### Full-Stack Engineer · Web · Backend · Cloud · Geospatial
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer+%7C+Building+from+idea+to+production;Clean+interfaces.+Reliable+APIs.+Thoughtful+systems.;Web+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+Geospatial" alt="Animated introduction">
+  </a>
 
-I build reliable, practical web software—from responsive interfaces to APIs, databases, and cloud deployments. My GIS experience adds a strong spatial-systems perspective.
+  <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sahilprashar02-111827?style=for-the-badge&logo=github)](https://github.com/Sahilprashar02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+  <a href="https://github.com/Sahilprashar02"><img src="https://img.shields.io/badge/GitHub-Sahilprashar02-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  <a href="https://sahil-portfolio-seven-alpha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live%20site-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website"></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
-## What I Build
+## Building software that feels simple
 
-```text
-Frontend        → React · JavaScript · responsive interfaces
-Backend         → Node.js · Python · REST APIs · authentication
-Data            → PostgreSQL · PostGIS · data workflows
-Cloud / DevOps  → GCP · Docker · Linux · automation
-Domain          → Geospatial / GIS · enterprise applications
+I’m **Sahil Prashar**, a full-stack engineer who enjoys taking an idea all the way to a dependable product. I work across the interface, API, data layer, and deployment—then use geospatial thinking when location is part of the problem.
+
+```ts
+const engineeringStyle = {
+  frontend: ["React", "TypeScript", "responsive UX"],
+  backend: ["Node.js", "Express", "REST APIs", "authentication"],
+  data: ["PostgreSQL", "PostGIS", "practical data workflows"],
+  delivery: ["Docker", "GCP", "Linux", "automation"],
+};
 ```
 
-## Core Stack
-
 <p align="center">
-  <img src="./assets/tech-arsenal.gif" width="100%" alt="Technology stack">
-</p>
-
-## Engineering Mode
-
-<p align="center">
-  <img src="./assets/engineering-loop.gif" width="100%" alt="Engineering workflow">
+  <img src="./assets/tech-arsenal.gif" width="100%" alt="Animated technology arsenal">
 </p>
 
 ## Featured Work
 
 <p align="center">
-  <img src="./assets/projects.gif" width="100%" alt="Featured projects">
+  <img src="./assets/projects.gif" width="100%" alt="Animated featured work banner">
 </p>
 
 | Area | What I enjoy building | Tools |
@@ -45,63 +43,42 @@ Domain          → Geospatial / GIS · enterprise applications
 | APIs & automation | Clear integrations and dependable backend workflows | Express · Python · REST |
 | Spatial software | Mapping and location-aware business systems | PostGIS · Web GIS |
 
+## Engineering Focus
+
+<p align="center">
+  <img src="./assets/engineering-loop.gif" width="100%" alt="Animated engineering workflow">
+</p>
+
+| Focus | What I bring |
+| :-- | :-- |
+| **Product-minded frontend** | Responsive, clear interfaces built for the people using them. |
+| **Backend foundations** | Well-structured APIs, authentication, integrations, and maintainable application logic. |
+| **Data & geospatial systems** | Spatial databases, mapping workflows, and location-aware experiences. |
+| **Practical delivery** | Containers, cloud services, and automation that make shipping repeatable. |
+
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&theme=transparent" height="170" alt="Most used languages">
 </p>
 
-## Contribution Snake
+## Contribution Trail
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Sahilprashar02/Sahilprashar02/github-snake/github-snake.svg" alt="Animated GitHub contribution snake" width="100%">
   </picture>
 </p>
 
-## Writing
+## What I Write About
 
-I write about JavaScript, Node.js, Express, asynchronous programming, REST APIs, authentication, and backend engineering.
+`JavaScript` · `Node.js` · `Express` · `async patterns` · `REST API design` · `JWT authentication` · `file uploads` · `backend workflows`
 
-- JavaScript fundamentals
-- Async / Await and Promises
-- Node.js internals
-- Express and REST API design
-- JWT authentication
-- File uploads and backend workflows
+<div align="center">
 
-## Domain Advantage
+  <i>Build with intent. Learn in public. Ship what matters.</i>
 
-I’m a full-stack engineer with hands-on experience in geospatial systems, spatial databases, mapping workflows, and enterprise GIS.
-
-That means I can work across:
-
-**software engineering ↔ backend systems ↔ cloud ↔ geospatial applications**
-
-## Connect
-
-<p align="center">
-  <a href="https://github.com/Sahilprashar02">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  <i>Build · Learn · Ship · Repeat</i>
-</p>
+</div>
