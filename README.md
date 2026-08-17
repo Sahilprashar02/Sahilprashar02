@@ -61,18 +61,14 @@
 ## 📊 GitHub Stats & Contribution Activity Graph
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-1.62k+-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions">
-  <img src="https://img.shields.io/badge/Public_Repos-28-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Public Repos">
-  <img src="https://img.shields.io/badge/Total_Commits-2026+-A855F7?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits">
-  <img src="https://img.shields.io/badge/GitHub_Rank-A+-FACC15?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Rank">
+  <img src="https://img.shields.io/badge/Company-DRONAMAPS-00F5D4?style=for-the-badge&logo=building&logoColor=black" alt="Current Company">
+  <img src="https://img.shields.io/badge/Total_Contributions-1.62k+-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Total Contributions">
+  <img src="https://img.shields.io/badge/Public_Repos-28-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos">
+  <img src="https://img.shields.io/badge/Total_Commits-2026+-FACC15?style=for-the-badge&logo=git&logoColor=black" alt="Total Commits">
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilprashar02&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Sahil Prashar's Contribution Activity Line Graph">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sahilprashar02&show_icons=true&hide_border=true&theme=tokyonight&custom_title=Sahil%20Prashar&include_all_commits=true&count_private=true" height="175" alt="Sahil Prashar's GitHub Statistics">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sahilprashar02&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Most Used Languages">
 </p>
 
 <p align="center">
