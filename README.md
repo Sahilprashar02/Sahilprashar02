@@ -57,7 +57,7 @@
 | 📹 **TeamBaithak** | Real-time WebRTC video conferencing & team collaboration platform. | [![Live Site](https://img.shields.io/badge/🚀_Live_Site-teambaithak.com-00F5D4?style=for-the-badge&logoColor=black)](https://www.teambaithak.com/) | `React` · `Next.js` · `Node.js` · `WebRTC` |
 | 💼 **Job Finder** | Full-stack recruitment portal with candidate tracking & filters. | [![Live App](https://img.shields.io/badge/💼_Live_App-Vercel-38BDF8?style=for-the-badge&logoColor=black)](https://job-finder-henna-phi.vercel.app/login) | `React` · `Node.js` · `Express` · `REST` |
 | ⏱️ **Time Arena** | Interactive productivity & focus management suite. | [![Live App](https://img.shields.io/badge/⏱️_Live_App-Netlify-FACC15?style=for-the-badge&logoColor=black)](https://time-arena.netlify.app/) | `JavaScript` · `React` · `CSS3` |
-| 🌐 **How The Web Works** | Deep-dive guide exploring web architecture & HTTP internals. | [![GitHub Repo](https://img.shields.io/badge/💻_GitHub_Repo-View_Code-A855F7?style=for-the-badge&logoColor=white)](https://github.com/Sahilprashar02/how-the-web-works) | `Web Architecture` · `HTTP` · `Networking` |
+| 🌐 **How The Web Works** | Deep-dive guide exploring web architecture & HTTP internals. | [![Live App](https://img.shields.io/badge/🌐_Live_App-Netlify-A855F7?style=for-the-badge&logoColor=white)](https://how-the-web-works-sahil.netlify.app/) | `Web Architecture` · `HTTP` · `Networking` |
 | 🎨 **Personal Portfolio** | Full-stack engineer showcase featuring projects & experience. | [![Live Site](https://img.shields.io/badge/🎨_Live_Site-Vercel-F472B6?style=for-the-badge&logoColor=black)](https://sahil-portfolio-seven-alpha.vercel.app/) | `Next.js` · `React` · `Tailwind` |
 
 </div>
